@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF: -1 group-title="BDIX_BANGLA_HD", BTV_NATIONAL_HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/53.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="BDIX_BANGLA_HD", JAGO_BTV WORLD [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="BDIX_BANGLA_HD", JAGO_BTV CTG [BD]
@@ -93,17 +95,17 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="BDIX_BANGLA_HD", JAGO_ATN Music [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
-#EXTINF: -1 group-title="BDIX_HD_INDIAN_BANGLA", STAR_JALSHA_HD
+#EXTINF: -1 group-title="BDIX_INDIAN_BANGLA_HD", STAR_JALSHA_HD
 http://tvserver3.roarzone.info:25461/live/roarhome/noyan/30.m3u8
-#EXTINF: -1 group-title="BDIX_HD_INDIAN_BANGLA", ZEE_BANGLA_HD
+#EXTINF: -1 group-title="BDIX_INDIAN_BANGLA_HD", ZEE_BANGLA_HD
 http://tvserver3.roarzone.info:25461/live/roarhome/noyan/34.m3u8
-#EXTINF: -1 group-title="BDIX_HD_INDIAN_BANGLA", COLORS_BANGLA_HD
+#EXTINF: -1 group-title="BDIX_INDIAN_BANGLA_HD", COLORS_BANGLA_HD
 http://tvserver3.roarzone.info:25461/live/roarhome/noyan/66.m3u8
-#EXTINF: -1 group-title="BDIX_HD_INDIAN_BANGLA", SONY_AATH_HD
+#EXTINF: -1 group-title="BDIX_INDIAN_BANGLA_HD", SONY_AATH_HD
 http://tvserver3.roarzone.info:25461/live/roarhome/noyan/33.m3u8
-#EXTINF: -1 group-title="BDIX_HD_INDIAN_BANGLA", ZEE_BANGLA_CINEMA_HD
+#EXTINF: -1 group-title="BDIX_INDIAN_BANGLA_HD", ZEE_BANGLA_CINEMA_HD
 http://tvserver3.roarzone.info:25461/live/roarhome/noyan/29.m3u8
-#EXTINF: -1 group-title="BDIX_HD_INDIAN_BANGLA", JALSHA_MOVIES_HD
+#EXTINF: -1 group-title="BDIX_INDIAN_BANGLA_HD", JALSHA_MOVIES_HD
 http://tvserver3.roarzone.info:25461/live/roarhome/noyan/31.m3u8
 #EXTINF: -1 group-title="BDIX_HINDI_HD", STAR_PLUS_HD
 http://tvserver3.roarzone.info:25461/live/roarhome/noyan/67.m3u8
@@ -239,6 +241,28 @@ http://tvserver3.roarzone.info:25461/live/roarhome/noyan/23.m3u8
 http://tvserver3.roarzone.info:25461/live/roarhome/noyan/26.m3u8
 #EXTINF: -1 group-title="BDIX_SPORTS_HD", PTV_SPORTS_HD
 http://tvserver3.roarzone.info:25461/live/roarhome/noyan/73.m3u8
+#EXTINF: -1 group-title="BDIX_MUSIC_HD", GAAN_BANGLA_HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/58.m3u8
+#EXTINF: -1 group-title="BDIX_MUSIC_HD", ZOOM_MUSIC_HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/60.m3u8
+#EXTINF: -1 group-title="BDIX_MUSIC_HD", 9XM_MUSIC_HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/48.m3u8
+#EXTINF: -1 group-title="BDIX_MUSIC_HD", 9X_JALWA_HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/98.m3u8
+#EXTINF: -1 group-title="BDIX_MUSIC_HD", SANGEET_BANGLA_HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/96.m3u8
+#EXTINF: -1 group-title="BDIX_MUSIC_HD", MTV_INDIA_HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/46.m3u8
+#EXTINF: -1 group-title="BDIX_ENGLISH_HD", HBO_HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/42.m3u8
+#EXTINF: -1 group-title="BDIX_ENGLISH_HD", SONY_PIX_HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/41.m3u8
+#EXTINF: -1 group-title="BDIX_ENGLISH_HD", BBC_EARTH_HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/44.m3u8
+#EXTINF: -1 group-title="BDIX_ENGLISH_HD", MOVIES_NOW_HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/45.m3u8
+#EXTINF: -1 group-title="BDIX_ENGLISH_HD", ZEE_CAFE_HD
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/69.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/7cLcHQ9.png" group-title="Hindi", And TV
 http://tv.univisionlive.net:25461/live/mamun141080/h10mamun/2236.m3u8
 #EXTINF: -1 tvg-logo="https://imgur.com/Wynpxsy.png" group-title="Hindi", Sony Sab HD
